@@ -3,7 +3,7 @@ import cv2
 import mutagen
 import pandas as pd
 from moviepy.editor import AudioFileClip, VideoFileClip
-
+#paste here your video paths
 #from get_video_points import get_video_points
 path_video = 'C:/Users/79778/OneDrive/Рабочий стол/Учеба. Бауманка/нирс/videos/Норма/'
 path_points = 'C:/Users/79778/OneDrive/Рабочий стол/Учеба. Бауманка/нирс/points/Норма/'
